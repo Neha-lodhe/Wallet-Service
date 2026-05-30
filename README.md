@@ -45,8 +45,3 @@ GET /wallet/{userId}
 
 ## Author
 Neha Lodhe
-
-
-
-
-Your Name
